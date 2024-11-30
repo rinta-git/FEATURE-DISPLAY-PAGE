@@ -82,6 +82,13 @@
 
 @media (min-width: 992px) {
   .wrapper {
+    .feature-intro {
+      h1,
+      h2 {
+        font-size: variables.$fs-36;
+        letter-spacing: 0.25px;
+      }
+    }
     .cards {
       display: grid;
       grid-template-columns: 1fr 1fr 1fr;

@@ -91,6 +91,11 @@ body, h1, h2, p, ul {
 }
 
 @media (min-width: 992px) {
+  .wrapper .feature-intro h1,
+  .wrapper .feature-intro h2 {
+    font-size: 2.25rem;
+    letter-spacing: 0.25px;
+  }
   .wrapper .cards {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -102,7 +107,6 @@ body, h1, h2, p, ul {
     width: 100%;
   }
   .wrapper .cards .card0 {
-    display: flex;
     grid-column: 1/2;
     grid-row: 1/3; /* Span from the first to the second row */
     justify-self: flex-end;
@@ -116,7 +120,6 @@ body, h1, h2, p, ul {
     grid-row: 2/3;
   }
   .wrapper .cards .card3 {
-    display: flex;
     grid-row: 1/3;
     grid-column: 3/4;
     justify-self: flex-start;
