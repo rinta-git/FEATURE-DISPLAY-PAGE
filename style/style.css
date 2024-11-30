@@ -14,7 +14,7 @@ body, h1, h2, p, ul {
   flex-direction: column;
   align-items: center;
   min-height: 100vh;
-  padding: 5.313rem 2rem;
+  padding: 4.313rem 2rem;
   font-family: "Poppins", serif;
   color: #4D4F62;
   text-align: center;
@@ -54,7 +54,7 @@ body, h1, h2, p, ul {
   box-shadow: 0px 15px 30px -11px #83a6d2;
   margin-bottom: 1.563rem;
   text-align: left;
-  padding: 18px 26px;
+  padding: 20px 26px;
   max-width: 311px;
 }
 .wrapper .cards > div h1 {
