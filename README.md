@@ -21,7 +21,7 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Screenshot
+### Screenshots
 
 ![Desktop View](./screenshorts/dView.jpeg)
 
@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Code](https://your-solution-url.com)
-- Live Site URL: [FEATURE-DISPLAY-PAGE](https://your-live-site-url.com)
+- Solution URL: [Code](https://github.com/rinta-git/FEATURE-DISPLAY-PAGE/blob/main/index.html)
+- Live Site URL: [FEATURE-DISPLAY-PAGE](https://rinta-git.github.io/FEATURE-DISPLAY-PAGE/)
 
 ## My process
 
