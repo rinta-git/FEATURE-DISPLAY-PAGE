@@ -92,7 +92,6 @@
         width: 100%;
       }
       .card0 {
-        display: flex;
         grid-column: 1 / 2; 
         grid-row: 1 / 3; /* Span from the first to the second row */
         justify-self: flex-end;
@@ -106,7 +105,6 @@
         grid-row: 2 / 3;
       }
       .card3 {
-        display: flex;
         grid-row: 1 / 3;
         grid-column: 3 / 4;
         justify-self: flex-start;

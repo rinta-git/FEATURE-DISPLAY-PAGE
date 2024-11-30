@@ -53,7 +53,6 @@ see below:
 
 ```css
 .card0 {
-  display: flex;
   grid-column: 1 / 2; 
   grid-row: 1 / 3; /* Span from the first to the second row */
   justify-self: flex-end;
